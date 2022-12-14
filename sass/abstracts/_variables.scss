@@ -11,13 +11,30 @@ $color-background-tertiary: #0e3378;
 $color-black: black;
 $color-black-hover: #2c2c2c;
 $color-white: #fff;
-$color_lightgrey: #f5f5f5;
-$color_lightgrey-1: #f8f8f8;
+$color-lightgrey: #f5f5f5;
+$color-lightgrey-1: #f8f8f8;
+$color-lightgrey-2: #f0eeee;
+$color-lightgrey-3: #ccc;
 $color-grey-dark-1: rgba(255, 255, 255, 0.5);
 $color-grey-dark: rgba(255, 255, 255, 0.15);
 $color-grey-dark-2: #505050;
 $color-grey-hover: #d9d9d9;
+$shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+$shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
 
 //Font
 $default-font-size: 1rem;
 
+// --color-primary: #528aaf;
+// --color-primary-light: #6ab8ec;
+// --color-primary-dark: #3a5f79;
+// --color-grey-light-1: #faf9f9;
+// --color-grey-light-2: #f4f2f2;
+// $color-grey-light-3: #f0eeee;
+// --color-grey-light-4: #ccc;
+// --color-grey-dark-1: #333;
+// --color-grey-dark-2: #777;
+// --color-grey-dark-3: #999;
+// --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+// --shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
+// --line: 1px solid $color-grey-light-2; 
