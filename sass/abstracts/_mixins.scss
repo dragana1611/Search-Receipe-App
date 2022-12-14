@@ -1,0 +1,35 @@
+@mixin font-primary-light {
+  font-family: $font-family-primary;
+  font-weight: $font-weight-light;
+  font-style: normal;
+}
+@mixin font-primary-medium {
+  font-family: $font-family-primary;
+  font-weight: $font-weight-small;
+  font-style: normal;
+}
+@mixin font-primary-medium-italic {
+  font-family: $font-family-primary;
+  font-weight: $font-weight-small;
+  font-style: italic;
+}
+@mixin font-primary-heavy {
+  font-family: $font-family-primary;
+  font-weight: $font-weight-strong;
+  font-style: normal;
+}
+@mixin font-primary-demi {
+  font-family: $font-family-primary;
+  font-weight: $font-weight-medium;
+  font-style: normal;
+}
+@mixin font-primary-bold {
+  font-family: $font-family-primary;
+  font-weight: $font-weight-strong;
+  font-style: normal;
+}
+@mixin font-secondary-italic {
+  font-family: $font-family-secondary;
+  font-weight: $font-weight-strong;
+  font-style: italic;
+}

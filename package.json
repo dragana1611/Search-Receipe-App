@@ -1,0 +1,15 @@
+{
+  "name": "search_receipe_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "sass ./sass/index.scss ./css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
+}
